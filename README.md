@@ -11,9 +11,9 @@ EvoMapX is a sophisticated evolutionary algorithm framework that combines multip
   - Differential Evolution (DE)
 
 - **Advanced Analysis Tools**:
-  - Operator Attribution Matrix (OAM)
+  - Operator Attribution Matrix (OAM
   - Population Evolution Graph (PEG)
-  - Contribution Degree Sequence (CDS)
+  - Convergence Driver Score (CDS)
 
 - **High-Quality Visualizations**:
   - Publication-ready figures (600 DPI)
